@@ -1,3 +1,4 @@
+# coding: ASCII-8BIT
 require 'spec_helper'
 
 describe StructFu, "mixin methods" do
